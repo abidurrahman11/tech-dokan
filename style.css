@@ -1,0 +1,88 @@
+.welcome{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+h1 .name{
+    color: orange;
+}
+.welcome p{
+    color: gray;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 25px;
+}
+.custom{
+    background-color: lightgoldenrodyellow;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 35px 0;
+}
+.product{
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 3px 3px 20px gray;
+}
+.product img{
+    width: 100%;
+    padding: 8px;
+}
+.product a{
+    text-decoration: none;
+    background-color: #b922b9;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.product h3{
+    text-align: center;
+    color: gray;
+    padding: 15px 2px;
+}
+
+.all-product{
+    text-align: center;
+    padding: 30px 0 40px 0;
+}
+.all-product a{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: #b922b9;
+    border-radius: 20px;
+}
+.card img{
+    height: 100px;
+    width: 100px;
+}
+.customer{
+    padding: 50px 0 50px 0;
+}
+.customer h2{
+    padding: 30px 0 10px 0;
+    color: darkolivegreen;
+    text-align: center;
+}
+.customer h4{
+    padding: 40px 12px 15px 12px;
+    color: gray;
+}
+.customer p{
+    font-style: oblique;
+    padding: 0 12px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+    padding-top: 60px;
+}
